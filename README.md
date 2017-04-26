@@ -38,3 +38,27 @@ function draw() {
 - [Learn Javascript | Codecademy](https://www.codecademy.com/es/learn/learn-javascript)
 
 **Con estos recursos y las páginas que componen el sitio de la clase, podrás dar unos primeros pasos en programación**
+
+#### RESULTADOS
+
+- [ ] ACKERSON ZUNZA, DAVID TOMÁS
+- [x] [ALFARO VERGARA, MACARENA DE JESÚS](https://mdalfaro1.github.io/septima-clase/)
+- [x] [CAMPOS STEMPFLE, MARIELA ISABEL](https://marielacamposs.github.io/septima-clase/)
+- [x] [CASTILLO MANCILLA, MACARENA ISIDORA](https://macarenacastillo.github.io/septima-clase/)
+- [x] [CHAVARRI SALAZAR, TERESA DE LOS ANGELES](https://terechavarri.github.io/clase-7/)
+- [x] [DE LA HOZ ARMIJO, JORDANNA DOMINICKE](https://jordanna212.github.io/CLASE7/)
+- [x] [DEROSAS CONTRERAS, MAGDALENA SOFIA](https://manederosasc.github.io/septima-clase/)
+- [ ] GAJARDO GUZMÁN, JOSEFINA MONTSERRAT
+- [x] [GARCES DIAZ, BASTIAN MAURICIO](https://bastgarces.github.io/garces_bastian_7/)
+- [x] [GAVILAN HORMAZABAL, IGNACIO JAVIER](https://ijgavilan.github.io/septima-clase/)
+- [ ] HURTADO BIAGGI, ANTONIA
+- [x] [LARRAIN YUNGE, MARIA FERNANDA](https://flarrain.github.io/clase-7/)
+- [ ] LEIVA BOHLE, FELIPE ANDRES
+- [x] [LÓPEZ ORELLANA, FRANCISCA ANTONIA](https://frannaranja.github.io/Clase_7/)
+- [ ] MORALES AVILA, CONSTANZA BELEN
+- [ ] MORENO ARANCIBIA, CLAUDIA CATALINA
+- [x] [ORTEGA VILLANUEVA, DENISSE ANDREA](https://daortega.github.io/septima-clase/)
+- [x] [PINTO RAMOS, PAULA CAMILA](https://paupintor5569.github.io/clase_7/)
+- [ ] QUEVEDO SUÁREZ, ISIDORA
+- [x] [STEPHENS MANRÍQUEZ, MARÍA MAGDALENA](https://maidast123.github.io/Clase-7/)
+
