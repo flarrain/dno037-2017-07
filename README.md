@@ -58,7 +58,7 @@ function draw() {
 - [x] [LARRAIN YUNGE, MARIA FERNANDA](https://flarrain.github.io/clase-7/)
 - [ ] LEIVA BOHLE, FELIPE ANDRES
 - [x] [LÓPEZ ORELLANA, FRANCISCA ANTONIA](https://frannaranja.github.io/Clase_7/)
-- [ ] MORALES AVILA, CONSTANZA BELEN
+- [x] [MORALES AVILA, CONSTANZA BELEN](https://clamoreno.github.io/clase-07/)
 - [ ] MORENO ARANCIBIA, CLAUDIA CATALINA
 - [x] [ORTEGA VILLANUEVA, DENISSE ANDREA](https://daortega.github.io/septima-clase/)
 - [x] [PINTO RAMOS, PAULA CAMILA](https://paupintor5569.github.io/clase_7/)
