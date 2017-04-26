@@ -6,7 +6,7 @@
 
 **MÓDULO 3: Introducción a la programación de scripts del lado del cliente con p5.js**
 
-Lo primero qeu corresponde indicar es que [p5.js](https://p5js.org/) fue creado con el objetivo original de [Processing](https://processing.org/): hacer la programación accesible al contexto de las artes visuales.
+Lo primero que corresponde indicar es que [p5.js](https://p5js.org/) fue creado con el objetivo original de [Processing](https://processing.org/): hacer la programación accesible al contexto de las artes visuales.
 
 **Mientras Processing es un lenguaje** de programación y entorno de desarrollo integrado de código abierto **basado en Java, p5.js es una [biblioteca de Javascript](https://es.wikipedia.org/wiki/Categor%C3%ADa:Bibliotecas_de_JavaScript)**.
 
@@ -32,10 +32,10 @@ function draw() {
 
 **RECURSOS JS**
 
+- [JavaScript basics](https://github.com/processing/p5.js/wiki/JavaScript-basics)
+- [JavaScript Tutorial | w3schools](https://www.w3schools.com/js/default.asp)
 - [Tutorial | JavaScript](https://www.javascript.com/try)
 - [Una re-introducción a JavaScript (Tutorial de JS) | MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Una_re-introducci%C3%B3n_a_JavaScript)
-- [JavaScript Tutorial | w3schools](https://www.w3schools.com/js/default.asp)
-- [Learn Javascript | Codecademy](https://www.codecademy.com/es/learn/learn-javascript)
 
 **Con estos recursos y las páginas que componen el sitio de la clase, podrás dar unos primeros pasos en programación**
 
